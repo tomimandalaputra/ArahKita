@@ -1,6 +1,6 @@
 # ArahKita
 
-**ArahKita** adalah aplikasi iOS berbasis SwiftUI yang memungkinkan pengguna menemukan tempat terdekat berdasarkan lokasi mereka secara real-time. Aplikasi ini terintegrasi dengan Google Maps dan Google Places API untuk memberikan hasil pencarian lokasi yang akurat dan informatif.
+**ArahKita** adalah aplikasi iOS berbasis SwiftUI yang memungkinkan pengguna menemukan tempat terdekat berdasarkan lokasi mereka secara real-time. Aplikasi ini terintegrasi dengan Google Places API untuk memberikan hasil pencarian lokasi yang akurat dan informatif.
 
 ## ✨ Fitur Utama
 
